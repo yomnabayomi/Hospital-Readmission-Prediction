@@ -29,11 +29,11 @@ The **Hospital Readmission Prediction** project aims to predict whether a patien
    - Comparison of models to select the best-performing one
 
 ## Key Contributions
-- Conducted **data preprocessing** including missing value handling, encoding, and resampling.  
-- Performed **EDA** to uncover insights on factors contributing to hospital readmission.  
-- Implemented and compared **machine learning models** (Logistic Regression, Random Forest, Decision Tree).  
-- Generated a **final predictive model** with optimized parameters.  
-- Documented findings and created visualizations for model performance and feature importance.
+- Developed a machine learning model to predict hospital readmissions using structured patient data (diagnoses, medications, admission history).  
+- Implemented and tuned a **Decision Tree classifier**, evaluating accuracy, recall, and precision, and visualized the tree to interpret feature splits and improve         explainability.  
+- Collaborated on model comparison with **Logistic Regression** and **Random Forest** to assess trade-offs in performance and interpretability.  
+- Conducted data preprocessing including missing value handling, encoding, and resampling (SMOTE).  
+- Performed exploratory data analysis (EDA) to uncover insights on factors contributing to hospital readmission.  
 
 ## Tools & Libraries
 - Python (Pandas, NumPy)
